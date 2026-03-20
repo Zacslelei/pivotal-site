@@ -6,7 +6,7 @@ export default function Home() {
       <nav className="border-b border-white/10 px-6 py-4 flex justify-between items-center max-w-5xl mx-auto">
         <span className="font-semibold text-lg tracking-tight">Pivotal</span>
         <a
-          href="https://gum.co/pivotal-playbook"
+          href="https://leleiza.gumroad.com/l/igiah"
           className="bg-violet-600 hover:bg-violet-500 text-white text-sm font-medium px-4 py-2 rounded-full transition-colors"
         >
           Get the Playbook →
@@ -33,7 +33,7 @@ export default function Home() {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="https://gum.co/pivotal-playbook"
+            href="https://leleiza.gumroad.com/l/igiah"
             className="bg-violet-600 hover:bg-violet-500 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-colors"
           >
             Get the Playbook — $29
@@ -115,7 +115,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-3 justify-center items-center">
             <a
-              href="https://gum.co/pivotal-playbook"
+              href="https://leleiza.gumroad.com/l/igiah"
               className="bg-violet-600 hover:bg-violet-500 text-white font-semibold px-8 py-4 rounded-xl text-lg transition-colors"
             >
               Buy now — $29
